@@ -1,6 +1,21 @@
 # 🌑Hiiiii🌕
 Hi! I'm Apricitine. I make weird things (quite infrequently) and put them here for the world to see.  
 Please don't look at my repos. You'll be disappointed... 😐
+
+## About Me
+I'm a KHZlcnkpIHlvdW5n and inexperienced programmer/web developer, as evidenced by my projects. I never finish anything and spend too much time typing `help` in the terminal. 
+In case you were wondering (you weren't), here's my experience.
+> Raw HTML (proficient)  
+> Raw CSS (average)  
+> Raw JS (proficient)  
+> Java (average)  
+> C++ (nooby)  
+> Python (learning)  
+> Ruby (learning)  
+
+As I'm sure you noticed, I haven't included any frameworks, libraries, or APIs. I'm quite a noob.
+
+
 <!--
 **Apricitine/Apricitine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
