@@ -13,8 +13,6 @@ In case you were wondering (you weren't), here's my experience.
 > Python (learning)  
 > Ruby (learning)  
 
-As I'm sure you noticed, I haven't included any frameworks, libraries, or APIs. I'm quite a noob.
-
 
 <!--
 **Apricitine/Apricitine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
