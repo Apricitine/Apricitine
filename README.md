@@ -1,1 +1,1 @@
-special diddy ahh blud 🤑
+special blud 👍
